@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="themostpopular">The most popular movies of </string>
+    <string name="btn_submit">Submit</string>
+    <string name="releasedate">Released: %s</string>
+    <string name="overview">Overview</string>
+</resources>
